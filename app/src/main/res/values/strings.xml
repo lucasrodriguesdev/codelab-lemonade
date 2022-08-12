@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Limonada</string>
+    <string name="SELECT">SELECT</string>
+    <string name="SQUEEZE">SQUEEZE</string>
+    <string name="DRINK">DRINK</string>
+    <string name="RESTART">RESTART</string>
 </resources>
